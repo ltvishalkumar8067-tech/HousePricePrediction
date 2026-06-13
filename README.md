@@ -1,6 +1,5 @@
 ![Project Screenshot](Screenshot.png)
 
-
 # 🏠 House Price Prediction Web App
 
 ## Project Overview
