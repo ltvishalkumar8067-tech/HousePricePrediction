@@ -45,4 +45,4 @@ if st.button("Predict Price"):
         garage_area
     ]])
 
-    st.success(f"🏠 Predicted House Price: ₹ {prediction[0]:,.0f}")c
+   st.success(f"🏠 Predicted House Price: ₹ {prediction[0]:,.0f}")
